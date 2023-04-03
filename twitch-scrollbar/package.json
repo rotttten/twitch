@@ -1,0 +1,18 @@
+{
+  "name": "twitch-scrollbar",
+  "version": "1.0.0",
+  "description": "change the width of the scrollbar on twitch.tv",
+  "homepage": "https://github.com/rott-net/twitch/tree/main/twitch-scrollbar#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rott-net/twitch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rott-net/twitch/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "twitch"
+  ],
+  "author": "ROTT <rottttttttttt@gmail.com> (https://rotttt.net)"
+}
