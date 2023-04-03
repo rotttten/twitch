@@ -24,5 +24,8 @@
   },
   "stylelint": {
     "extends": "@mikey-pro/stylelint-config"
+  },
+  "devDependencies": {
+    "mikey-pro": "^6.4.17"
   }
 }
