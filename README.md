@@ -2,4 +2,4 @@
 
 resources for twitch.tv
 
-## [twitch-scrollbar](/tree/main/twitch-scrollbar)
+## [twitch-scrollbar](https://github.com/rott-net/twitch/tree/main/twitch-scrollbar)
