@@ -1,0 +1,12 @@
+/* ==UserStyle==
+@name           twitch scrollbar
+@namespace      github.com/rott-net/twitch
+@version        1.0.0
+@description    change the width of the scrollbar on twitch.tv
+@author         rott-net
+==/UserStyle== */
+@-moz-document domain("twitch.tv") {
+  .simplebar-scrollbar {
+    width: 13px !important;
+  }
+}
