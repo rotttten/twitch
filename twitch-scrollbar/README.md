@@ -16,4 +16,4 @@ style page and use the install button
 
 ### customize
 
-use the style settings in the stylus extension to input a custom width
+use the style settings via the stylus extension to input a custom width
