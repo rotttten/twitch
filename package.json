@@ -1,0 +1,28 @@
+{
+  "name": "twitch",
+  "version": "0.0.1",
+  "description": "resources for twitch.tv",
+  "scripts": {
+    "fix": "eslint --fix '**/*'"
+  },
+  "homepage": "https://github.com/rott-net/twitch#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rott-net/twitch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rott-net/twitch/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "twitch"
+  ],
+  "author": "ROTT <rottttttttttt@gmail.com> (https://rotttt.net)",
+  "prettier": "@mikey-pro/prettier-config",
+  "eslintConfig": {
+    "extends": "@mikey-pro/eslint-config"
+  },
+  "stylelint": {
+    "extends": "@mikey-pro/stylelint-config"
+  }
+}
