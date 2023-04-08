@@ -17,7 +17,7 @@
   "keywords": [
     "twitch"
   ],
-  "author": "ROTT <rottttttttttt@gmail.com> (https://rotttt.net)",
+  "author": "rott <rottttttttttt@gmail.com> (https://rotttt.net)",
   "prettier": "@mikey-pro/prettier-config",
   "eslintConfig": {
     "extends": "@mikey-pro/eslint-config"
